@@ -2,7 +2,7 @@ const fs = require('fs');
 const setting = require('./lib/setting');
 const translate = require('./lib/translate');
 
-const rawdata = fs.readFileSync('config.json')
+const rawdata = fs.readFileSync('config.json');
 const config = JSON.parse(rawdata);
 
 const main = async () => {
