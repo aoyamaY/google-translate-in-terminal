@@ -1,0 +1,35 @@
+{
+  "name": "@aoyama/google-translate-in-terminal",
+  "version": "1.0.0",
+  "description": "Use google translate in terminal.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "fuzzy": "^0.1.3",
+    "html-entities": "^1.2.1",
+    "inquirer": "^7.0.1",
+    "simple-terminal-menu": "^1.1.3",
+    "superagent": "^5.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js Google翻訳"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aoyamaY/google-translate-in-terminal.git"
+  },
+  "keywords": [
+    "google-translate",
+    "terminal",
+    "cli"
+  ],
+  "author": "1173129689@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aoyamaY/google-translate-in-terminal/issues"
+  },
+  "homepage": "https://github.com/aoyamaY/google-translate-in-terminal#readme"
+}
