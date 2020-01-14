@@ -11,9 +11,11 @@
     "inquirer": "^7.0.1",
     "superagent": "^5.1.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jshint": "^2.11.0"
+  },
   "scripts": {
-    "test": "node index.js Google翻訳"
+    "test": "jshint index.js lib/translate.js lib/setting.js"
   },
   "repository": {
     "type": "git",
