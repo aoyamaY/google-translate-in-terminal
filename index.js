@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 
 const fs = require('fs');
+const path = require('path');
 const setting = require('./lib/setting');
 const translate = require('./lib/translate');
 
-const rawdata = fs.readFileSync('config.json');
+const rawdata = fs.readFileSync(path.join(__dirname, 'config.json'));
 const config = JSON.parse(rawdata);
 
 const main = async () => {
