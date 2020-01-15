@@ -6,6 +6,10 @@
   "directories": {
     "lib": "lib"
   },
+  "bin": {
+    "google-translate": "index.js",
+    "gt": "index.js"
+  },
   "dependencies": {
     "html-entities": "^1.2.1",
     "inquirer": "^7.0.1",

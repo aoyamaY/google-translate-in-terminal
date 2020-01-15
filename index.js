@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fs = require('fs');
 const setting = require('./lib/setting');
 const translate = require('./lib/translate');
