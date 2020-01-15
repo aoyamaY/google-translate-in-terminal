@@ -1,5 +1,5 @@
 {
-  "name": "@aoyama/google-translate-in-terminal",
+  "name": "google-translate-in-terminal",
   "version": "1.0.1",
   "description": "Use google translate in terminal.",
   "main": "index.js",
