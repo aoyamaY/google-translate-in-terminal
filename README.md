@@ -24,7 +24,7 @@ $ gt こんにちは世界
 
 Mutileline with quotes:
 
-```
+```bash
 $ gt "強風のなかでは
 木の葉は
 落下しないで
@@ -32,3 +32,13 @@ $ gt "強風のなかでは
 まっすぐに飛び立つ
 "
 ```
+
+Set source and target language:
+
+```bash
+$ gt --setting
+```
+
+## Supported Languages
+
+Support over 100 languages, for more see official [documentation](https://cloud.google.com/translate/docs/languages).
