@@ -3,6 +3,7 @@
 Use google translate in terminal.
 
 [![npm](https://img.shields.io/npm/v/google-translate-in-terminal)](https://www.npmjs.com/package/google-translate-in-terminal)
+[![npm](https://img.shields.io/npm/dt/google-translate-in-terminal)](https://www.npmjs.com/package/google-translate-in-terminal)
 [![Build Status](https://travis-ci.org/aoyamaY/google-translate-in-terminal.svg?branch=master)](https://travis-ci.org/aoyamaY/google-translate-in-terminal) 
 [![GitHub License](https://img.shields.io/github/license/aoyamaY/google-translate-in-terminal)](https://github.com/aoyamaY/google-translate-in-terminal/blob/master/LICENSE)
 
@@ -27,6 +28,12 @@ For short:
 $ gt こんにちは世界
 ```
 
+Translate the clipboard: (just type in `gt`)
+
+```
+$ gt
+```
+
 Mutileline with quotes:
 
 ```bash
@@ -46,7 +53,7 @@ $ gt --setting
 
 ## Supported Languages
 
-Support over 100 languages, for more see official [documentation](https://cloud.google.com/translate/docs/languages).
+Support over **100** languages, for more see official [documentation](https://cloud.google.com/translate/docs/languages).
 
 ## License
 

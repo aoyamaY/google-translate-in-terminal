@@ -1,6 +1,6 @@
 {
   "name": "google-translate-in-terminal",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Use google translate in terminal.",
   "main": "index.js",
   "directories": {
@@ -11,6 +11,7 @@
     "gt": "index.js"
   },
   "dependencies": {
+    "clipboardy": "^2.1.0",
     "html-entities": "^1.2.1",
     "inquirer": "^7.0.1",
     "superagent": "^5.1.3"
