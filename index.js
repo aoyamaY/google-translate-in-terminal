@@ -20,7 +20,7 @@ const main = async () => {
       sourceText = process.argv.slice(2).join(' ');
     }
     const translated = await translate(config.sourcelanguage, config.targetlanguage, sourceText);
-    console.log(`\nTranslation:\n${translated}`);
+    console.log(`Translation:\n${translated}`);
   }
 };
 

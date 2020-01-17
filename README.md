@@ -30,7 +30,7 @@ $ gt こんにちは世界
 
 Translate the clipboard: (just type in `gt`)
 
-```
+```bash
 $ gt
 ```
 
@@ -41,8 +41,7 @@ $ gt "強風のなかでは
 木の葉は
 落下しないで
 鳥のように木から
-まっすぐに飛び立つ
-"
+まっすぐに飛び立つ"
 ```
 
 Set source and target language:
