@@ -10,7 +10,7 @@ Use google translate in terminal.
 [![dependencies Status](https://david-dm.org/aoyamaY/google-translate-in-terminal/status.svg)](https://david-dm.org/aoyamaY/google-translate-in-terminal)
 [![devDependencies Status](https://david-dm.org/aoyamaY/google-translate-in-terminal/dev-status.svg)](https://david-dm.org/aoyamaY/google-translate-in-terminal?type=dev)
 
-![screenshot](https://github.com/aoyamaY/google-translate-in-terminal/blob/master/screenshots/screenshot.gif?raw=true)
+![screenshot](https://github.com/aoyamaY/picture-bed/blob/master/google-translate-in-terminal/screenshot.gif?raw=true)
 
 ## Installation
 
