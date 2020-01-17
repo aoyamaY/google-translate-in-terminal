@@ -10,6 +10,8 @@ Use google translate in terminal.
 [![dependencies Status](https://david-dm.org/aoyamaY/google-translate-in-terminal/status.svg)](https://david-dm.org/aoyamaY/google-translate-in-terminal)
 [![devDependencies Status](https://david-dm.org/aoyamaY/google-translate-in-terminal/dev-status.svg)](https://david-dm.org/aoyamaY/google-translate-in-terminal?type=dev)
 
+![screenshot](https://raw.githubusercontent.com/aoyamaY/google-translate-in-terminal/screenshots/screenshot.gif)
+
 ## Installation
 
 ```bash
